@@ -9,3 +9,5 @@ class HelloWorld():
 if __name__ == '__main__':
     myName = HelloWorld('Kang')
     print(myName)
+
+print('Kim')
