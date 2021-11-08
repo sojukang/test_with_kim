@@ -3,7 +3,7 @@ class HelloWorld():
         self.name = name 
     
     def __str__(self):
-        return self.name 
+        return 'Hello ' + self.name + '!' 
 
 
 if __name__ == '__main__':
